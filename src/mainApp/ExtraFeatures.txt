@@ -1,0 +1,9 @@
+Turrets
+Mines
+Placing Immovable Objects on any surface
+Projectiles
+Fuel For jetpack
+Hero's Face changes when damage is taken
+Controlling Multiple players at once
+A you Win screen
+Invincibility frames
